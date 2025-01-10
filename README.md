@@ -5,7 +5,7 @@
 - 👩‍🦰 22y
 - 💼 Software Developer
 - 🎓 Information Systems Student
-- 🚀 1 year and 8 months of hands-on experience
+- 🚀 2 years of hands-on experience
 - ✨ Open to collaborations and learning opportunities
 <hr/>
 
