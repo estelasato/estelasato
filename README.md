@@ -11,12 +11,13 @@
 
 ### Tech Stacks
 <div style="display: inline-block" >
-  <img align="center" alt="react" src="https://icongr.am/devicon/react-original.svg?size=22&color=currentColor">
-  <img align="center" alt="ts" src="https://icongr.am/devicon/typescript-original.svg?size=22&color=currentColor">
-  <img align="center" alt="html" src="https://icongr.am/devicon/html5-original.svg?size=22&color=currentColor">
-  <img align="center" alt="css" src="https://icongr.am/devicon/css3-original.svg?size=22&color=currentColor">
-  <img align="center" alt="js" src="https://icongr.am/devicon/javascript-original.svg?size=22&color=currentColor">
-  <img align="center" alt="mongo" src="https://icongr.am/devicon/mongodb-original.svg?size=22&color=currentColor">
+  <img align="center" title="react" alt="react" src="https://icongr.am/devicon/react-original.svg?size=22&color=currentColor">
+  <img align="center" title="ts" alt="ts" src="https://icongr.am/devicon/typescript-original.svg?size=22&color=currentColor">
+  <img align="center" title="html" alt="html" src="https://icongr.am/devicon/html5-original.svg?size=22&color=currentColor">
+  <img align="center" title="css" alt="css" src="https://icongr.am/devicon/css3-original.svg?size=22&color=currentColor">
+  <img align="center" title="js" alt="js" src="https://icongr.am/devicon/javascript-original.svg?size=22&color=currentColor">
+  <img align="center" title="mongo" alt="mongo" src="https://icongr.am/devicon/mongodb-original.svg?size=22&color=currentColor">
+  <img align="center" title="nest" alt="nest" src="https://nestjs.com/img/logo-small.svg" width="25"/>
 </div>
 
 <hr/>
