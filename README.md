@@ -2,7 +2,7 @@
 
 ### About me
 
-- 👩‍🦰 22y
+- 👩‍🦰 23y
 - 💼 Software Developer
 - 🎓 Information Systems Student
 - 🚀 2 years of hands-on experience
