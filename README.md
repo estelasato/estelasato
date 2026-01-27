@@ -2,10 +2,10 @@
 
 ### About me
 
-- 👩‍🦰 23y
+- 👩‍🦰 24y
 - 💼 Software Developer
-- 🎓 Information Systems Student
-- 🚀 2 years of hands-on experience
+- 🎓 Bachelor’s degree in Information Systems
+- 🚀 3 years of hands-on experience
 - ✨ Open to collaborations and learning opportunities
 <hr/>
 
