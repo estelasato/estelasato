@@ -5,7 +5,7 @@
 - 👩‍🦰 24y
 - 💼 Software Developer
 - 🎓 Bachelor’s degree in Information Systems
-- 🚀 3 years of hands-on experience
+- 🚀 +3 years of hands-on experience
 - ✨ Open to collaborations and learning opportunities
 <hr/>
 
